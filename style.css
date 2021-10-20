@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    border: 1px solid blueviolet;
+}
+section {
+    display: flex;
+    justify-content: flex-end;
+    color: orangered;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
